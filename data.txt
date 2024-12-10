@@ -1,0 +1,19 @@
+ru 123456,1
+ru 654321,1
+ru 12345,0
+ru123456,0
+usa 12345,1
+usa 54321,1
+usa 1234,0
+usa12345,0
+uk W1A 1AA,1
+uk EC1A 1BB,1
+uk 1234,0
+uk W1A1AA,0
+french 75001,1
+french 13001,1
+french 7500,0
+french75001,0
+de 12345,0
+es 08001,0
+бананы,0
