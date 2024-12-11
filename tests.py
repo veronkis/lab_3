@@ -18,4 +18,10 @@ class TestIsValidPostcode(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    unittest.main()
+    choice = int(input("Ввести вручную - 0 \
+                        \nОбработать тесты - 1 \n"))
+    if choice:
+        unittest.main()
+    else:
+        index = input("Введите индекс ")
+        print(regular_expressions.is_valid_postcode(index))
